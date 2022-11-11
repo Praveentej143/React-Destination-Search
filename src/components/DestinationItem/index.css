@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.avatar {
+  width: 200px;
+}
+.item-container {
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 200px;
+}
